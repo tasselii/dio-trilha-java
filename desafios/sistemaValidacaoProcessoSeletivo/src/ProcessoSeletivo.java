@@ -65,7 +65,6 @@ public class ProcessoSeletivo {
     }
 
     static void analisarCandidato(double salarioPretendido) {
-        Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
 
         double salarioBase = 2000.0;
 
