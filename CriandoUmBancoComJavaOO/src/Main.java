@@ -59,7 +59,7 @@ public class Main {
                             poupanca.transferir(transferencia2, cc);
                             break;
                         default:
-                            System.out.println("Opção de depósito inválida!");
+                            System.out.println("Opção de transferencia inválida!");
                     }
                     break;
                 case 3:
@@ -81,7 +81,7 @@ public class Main {
                             poupanca.sacar(saldo2);
                             break;
                         default:
-                            System.out.println("Opção de depósito inválida!");
+                            System.out.println("Opção de saque inválida!");
                     }
                     break;
                 case 4:
